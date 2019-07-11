@@ -1,0 +1,35 @@
+#navv{
+	background-color: #ee8f1b;
+}
+
+.carousel{
+	width:100%;
+	height: auto;
+}
+
+
+#inici{
+	width: 5rem;
+}
+#logo{
+	width: 5rem;
+}
+#logo1{
+	width: 7rem;
+}
+#historia{
+	width: 5rem;
+}
+#navbarDropdownMenuLink{
+	width: 9rem;
+}
+
+#footer{
+	background-color: black;
+	color: white;
+	height:10rem;
+}
+#xarxes{
+	display: flex;
+	justify-content: center;
+}
