@@ -19,17 +19,34 @@
 }
 #historia{
 	width: 5rem;
+	margin-left: 2rem;
 }
 #navbarDropdownMenuLink{
 	width: 9rem;
 }
 
+#text{
+	margin-left: 3rem;
+}
+
 #footer{
 	background-color: black;
 	color: white;
-	height:10rem;
+	height:15rem;
 }
 #xarxes{
+	position: 	relative;	
 	display: flex;
 	justify-content: center;
+	margin-left: 12rem;
+	margin-top: 2rem;
 }
+#contacte{
+	position: 	relative;	
+	text-align: right;
+	margin-right: 	1rem;
+	margin-bottom: 	0rem;
+}
+#maps{
+ 	margin-left: 4rem;
+ }
